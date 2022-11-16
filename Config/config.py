@@ -1,0 +1,10 @@
+class TestData:
+    CHROME_EXECUTABLE = "C:\\Users\\jkrupskis\\Downloads\\chromedriver.exe"
+    CHROME_EXECUTABLE_REL_PATH = "\\chromedriver.exe"
+    FF_EXECUTABLE = "C:\\Users\\jkrupskis\\Downloads\\geckodriver.exe"
+    FF_BINARY = "C:\\Program Files\\Mozilla Firefox\\firefox.exe"
+    BASE_URL = "https://ksenukai.lv"
+    PRODUCT = "Apple iPhone 14 Pro, melna, 6GB/128GB"
+    PRODUCT_2 = "Kalts Irwin, 250 mm x 22 mm"
+    QUANTITY = "2"
+    MAIN_PAGE_TITLE = "Ksenukai.lv: Būvniecības, interjera, dārza, elektronikas, hobiju preces"
